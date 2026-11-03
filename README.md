@@ -35,10 +35,10 @@ Sou o Rafael, estudante de Ciência da Computação na UDF. Comecei a jornada pe
 
 | Slot | Item equipado |
 |---|---|
-| 🎧 **Trilha sonora** | [o que você mais ouve] |
-| 📚 **Grimório (leitura)** | Lendo agora: [livro] · Favorito: [livro] |
-| 🎮 **Save games** | [jogos que marcaram você] |
-| 🎬 **Cutscenes** | [filmes/séries favoritos] |
+| 🎧 **Trilha sonora** | De tudo um pouco, mas o pop encanta-me com suas sonoridades diversas |
+| 📚 **Grimório (leitura)** | Lendo agora: Quarta Asa · Favorito: O Principe cruel |
+| 🎮 **Save games** | life is strange; homem aranha (2018); minecraft...  |
+| 🎬 **Cutscenes** | wandavsion; aghata all along; nimona; robô selvagem... |
 
 ## 🗺️ Diário de missões
 
@@ -52,6 +52,14 @@ Sou o Rafael, estudante de Ciência da Computação na UDF. Comecei a jornada pe
 - 🥉 Primeiros algoritmos de ordenação implementados do zero em C
 - 🥉 Perfil profissional no GitHub criado e organizado
 - 🔒 Primeiro projeto web publicado (em progresso)
+
+## 🐍 Rastro de commits
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROS757/ROS757/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ROS757/ROS757/output/github-snake.svg" />
+  <img alt="Gráfico de contribuições com uma cobra animada" src="https://raw.githubusercontent.com/ROS757/ROS757/output/github-snake.svg" />
+</picture>
 
 ## 🤝 Modo multiplayer (vamos conversar)
 
