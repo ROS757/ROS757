@@ -1,6 +1,10 @@
 <h1 align="center">🎮 PLAYER 1: RAFAEL</h1>
 
 <p align="center">
+  <img src="mascote-ros.svg" alt="Ros, o mascote do Rafael" width="200" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/CLASSE-Estudante%20de%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-5b8def?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GUILDA-UDF-8a63d2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STATUS-Em%20evolu%C3%A7%C3%A3o-2ea44f?style=for-the-badge" />
